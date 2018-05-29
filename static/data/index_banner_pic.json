@@ -1,0 +1,22 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    {
+      "url": "/static/imgs/banner-pic.png",
+      "id":1
+    },
+    {
+      "url": "/static/imgs/banner-pic.png",
+      "id": 2
+    },
+    {
+      "url": "/static/imgs/banner-pic.png",
+      "id": 3
+    },
+    {
+      "url": "/static/imgs/banner-pic.png",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    {
+      "title": "热门彩",
+      "content": [
+        {
+          "url": "/static/imgs/shishicai-icon.png",
+          "lotteryName":"重庆时时彩",
+          "id":1,
+          "periodsNum":"20180408055期",
+          "time":"15:00",
+          "winningNum":[
+            1,2,3,4,5
+          ],
+          "tableData":[
+            {
+              "title":"总和大小",
+              "details":[
+                "27","大","单"
+              ]
+            },
+            {
+              "title": "龙虎",
+              "details": [
+                "虎"
+              ]
+            },
+            {
+              "title": "前三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "中三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "后三",
+              "details": [
+                "半顺"
+              ]
+            }
+          ],
+          "toPageUrl": [
+            {
+              "name": "历史开奖",
+              "url": "/lotterylobby/1",
+              "status": 1
+            },
+            {
+              "name": "预测推荐",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "走势分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "冷热分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "技巧文章",
+              "url": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "url": "/static/imgs/jianada_twenty_eight_logo.png",
+          "lotteryName": "加拿大28",
+          "id":4,
+          "periodsNum": "20180520055期",
+          "time": "20:00",
+          "winningNum": [
+            2,4,4,10
+          ],
+          "tableData": [
+            {
+              "title": "总和大小",
+              "details": [
+                "27",
+                "大",
+                "单"
+              ]
+            },
+            {
+              "title": "龙虎",
+              "details": [
+                "龙"
+              ]
+            },
+            {
+              "title": "前三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "中三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "后三",
+              "details": [
+                "半顺"
+              ]
+            }
+          ],
+          "toPageUrl": [
+            {
+              "name": "历史开奖",
+              "url": "",
+              "status": 1
+            },
+            {
+              "name": "预测推荐",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "走势分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "冷热分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "技巧文章",
+              "url": "",
+              "status": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "高频彩",
+      "content": [
+        {
+          "url": "/static/imgs/shishicai-icon.png",
+          "lotteryName": "重庆时时彩1",
+          "id":1,
+          "periodsNum": "20180408055期",
+          "time": "15:00",
+          "winningNum": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "tableData": [
+            {
+              "title": "总和大小",
+              "details": [
+                "27",
+                "大",
+                "单"
+              ]
+            },
+            {
+              "title": "龙虎",
+              "details": [
+                "虎"
+              ]
+            },
+            {
+              "title": "前三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "中三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "后三",
+              "details": [
+                "半顺"
+              ]
+            }
+          ],
+          "toPageUrl": [
+            {
+              "name": "历史开奖",
+              "url": "",
+              "status": 1
+            },
+            {
+              "name": "预测推荐",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "走势分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "冷热分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "技巧文章",
+              "url": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "url": "/static/imgs/jianada_twenty_eight_logo.png",
+          "lotteryName": "加拿大28-2",
+          "id": 2,
+          "periodsNum": "20180520055期",
+          "time": "20:00",
+          "winningNum": [
+            1,
+            2,
+            3,
+            4,
+            8
+          ],
+          "tableData": [
+            {
+              "title": "总和大小",
+              "details": [
+                "27",
+                "大",
+                "单"
+              ]
+            },
+            {
+              "title": "龙虎",
+              "details": [
+                "龙"
+              ]
+            },
+            {
+              "title": "前三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "中三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "后三",
+              "details": [
+                "半顺"
+              ]
+            }
+          ],
+          "toPageUrl": [
+            {
+              "name": "历史开奖",
+              "url": "",
+              "status": 1
+            },
+            {
+              "name": "预测推荐",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "走势分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "冷热分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "技巧文章",
+              "url": "",
+              "status": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "低频彩",
+      "content": [
+        {
+          "url": "/static/imgs/shishicai-icon.png",
+          "lotteryName": "重庆时时彩3",
+          "id":1,
+          "periodsNum": "20180408055期",
+          "time": "15:00",
+          "winningNum": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "tableData": [
+            {
+              "title": "总和大小",
+              "details": [
+                "27",
+                "大",
+                "单"
+              ]
+            },
+            {
+              "title": "龙虎",
+              "details": [
+                "虎"
+              ]
+            },
+            {
+              "title": "前三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "中三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "后三",
+              "details": [
+                "半顺"
+              ]
+            }
+          ],
+          "toPageUrl": [
+            {
+              "name": "历史开奖",
+              "url": "",
+              "status": 1
+            },
+            {
+              "name": "预测推荐",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "走势分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "冷热分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "技巧文章",
+              "url": "",
+              "status": 0
+            }
+          ]
+        },
+        {
+          "url": "/static/imgs/jianada_twenty_eight_logo.png",
+          "lotteryName": "加拿大283",
+          "id": 3,
+          "periodsNum": "20180520055期",
+          "time": "20:00",
+          "winningNum": [
+            1,
+            2,
+            3,
+            4,
+            8
+          ],
+          "tableData": [
+            {
+              "title": "总和大小",
+              "details": [
+                "27",
+                "大",
+                "单"
+              ]
+            },
+            {
+              "title": "龙虎",
+              "details": [
+                "龙"
+              ]
+            },
+            {
+              "title": "前三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "中三",
+              "details": [
+                "对子"
+              ]
+            },
+            {
+              "title": "后三",
+              "details": [
+                "半顺"
+              ]
+            }
+          ],
+          "toPageUrl": [
+            {
+              "name": "历史开奖",
+              "url": "",
+              "status": 1
+            },
+            {
+              "name": "预测推荐",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "走势分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "冷热分析",
+              "url": "",
+              "status": 0
+            },
+            {
+              "name": "技巧文章",
+              "url": "",
+              "status": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

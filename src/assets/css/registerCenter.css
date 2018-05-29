@@ -1,0 +1,162 @@
+.outerbox {
+  background: url(../imgs/register-bg.png) no-repeat center center;
+  margin-bottom: -30px;
+}
+.outerbox .el-col {
+  padding: 77px 106px 105px 64px;
+}
+.outerbox .el-col .goBackIndex {
+  margin-bottom: 8px;
+}
+.outerbox .el-col .goBackIndex .font-color {
+  color: #E52A20;
+}
+.outerbox .el-col .inner-opacity-box {
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 0 12px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box {
+  background: #fff;
+  padding: 105px 0 200px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-title {
+  color: #616161;
+  font-size: 18px;
+  letter-spacing: 2px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-login {
+  margin-top: 28px;
+  color: #808080;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-login .loginnow {
+  color: #E52A20;
+  text-decoration: underline;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists {
+  padding-left: 342px;
+  margin-top: 48px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .my-lists-items {
+  height: 48px;
+  margin-bottom: 28px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .my-lists-items:last-child {
+  margin-bottom: 0;
+  margin-top: -28px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .left-icon {
+  display: inline-block;
+  width: 52px;
+  background: #e8e8e8;
+  height: 100%;
+  border: 1px solid #D7D7D7;
+  vertical-align: top;
+  border-bottom-left-radius: 6px;
+  border-top-left-radius: 6px;
+  border-right: 0;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .left-icon img {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  top: 10px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .right-input {
+  width: 245px;
+  padding-left: 15px;
+  color: #929292;
+  border: 1px solid #D7D7D7;
+  height: 100%;
+  border-left: 0;
+  margin-left: -4px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .right-input::-webkit-input-placeholder {
+  color: #929292;
+  letter-spacing: 2px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .left-input {
+  width: 207px;
+  padding-left: 15px;
+  color: #929292;
+  height: 100%;
+  border: 1px solid #d7d7d7;
+  border-right: 0;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .right-text {
+  display: inline-block;
+  width: 90px;
+  background: #e8e8e8;
+  color: #3B3B3B;
+  height: 100%;
+  padding-top: 12px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border: 1px solid #d7d7d7;
+  border-left: 0;
+  vertical-align: top;
+  margin-left: -4px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .ok-pic {
+  width: 22px;
+  height: 22px;
+  margin-left: 18px;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .question-intro {
+  margin-left: 20px;
+  color: #929292;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .register-btn {
+  width: 304px;
+  height: 51px;
+  color: #fff;
+  font-size: 16px;
+  background: #E52A20;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .warning {
+  color: #E52A20;
+}
+.outerbox .el-col .inner-opacity-box .inner-content-box .content-register-lists .getCode {
+  cursor: pointer;
+}
+.findPwd-next-btn {
+  margin-top: 29px;
+}
+.findPwd-last-pic {
+  margin-top: 57px;
+}
+.findPwd-last-pic img {
+  width: 57px;
+  height: 57px;
+}
+.findPwd-last-text {
+  margin-top: 14px;
+}
+.findPwd-last-text .text-title {
+  font-size: 18px;
+  color: #353535;
+}
+.findPwd-last-text .text-sub-title {
+  color: #898989;
+  margin-top: 14px;
+}
+.findPwd-last-btn {
+  margin-top: 37px;
+}
+.findPwd-last-btn .asBtn {
+  display: inline-block;
+  width: 304px;
+  height: 51px;
+  line-height: 51px;
+  border-radius: 6px;
+  background: #E52A20;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 2px;
+}

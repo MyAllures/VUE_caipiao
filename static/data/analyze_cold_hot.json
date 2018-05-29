@@ -1,0 +1,111 @@
+{
+  "status": 1,
+  "message": "",
+  "data":[
+    {
+      "title":"名次",
+      "type":[
+        "热","温","冷"
+      ]
+    },
+    [
+      {
+        "ballnum":"第一球",
+        "result":[
+          [
+            {
+              "resnum":2,
+              "badge":4
+            },
+            {
+              "resnum": 3,
+              "badge": 4
+            }
+          ],
+          [
+            {
+              "resnum": 0,
+              "badge": 3
+            },
+            {
+              "resnum": 2,
+              "badge": 3
+            },
+            {
+              "resnum": 6,
+              "badge": 2
+            }
+          ],
+          [
+            {
+              "resnum": 5,
+              "badge": 1
+            },
+            {
+              "resnum": 7,
+              "badge": 3
+            },
+            {
+              "resnum": 8,
+              "badge": 3
+            },
+            {
+              "resnum": 9,
+              "badge": 3
+            }
+          ]
+        ]
+      },
+      {
+        "ballnum": "第五球",
+        "result": [
+          [],
+          [
+            {
+              "resnum": 0,
+              "badge": 3
+            },
+            {
+              "resnum": 2,
+              "badge": 3
+            },
+            {
+              "resnum": 6,
+              "badge": 2
+            },
+            {
+              "resnum": 0,
+              "badge": 3
+            },
+            {
+              "resnum": 2,
+              "badge": 3
+            },
+            {
+              "resnum": 6,
+              "badge": 2
+            },
+            {
+              "resnum": 0,
+              "badge": 3
+            },
+            {
+              "resnum": 2,
+              "badge": 3
+            },
+            {
+              "resnum": 6,
+              "badge": 2
+            }
+          ],
+          [
+            {
+              "resnum": 5,
+              "badge": 1
+            }
+          ]
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    {
+      "type": "历史开奖",
+      "url":"/static/imgs/lishikaijiang-icon.png",
+      "tablists":[
+        {
+          "title":"今日双面\\号码统计",
+          "status": 0
+        },
+        {
+          "title": "号码分析",
+          "status": 0
+        },
+        {
+          "title": "长龙提醒",
+          "status": 0
+        }        
+      ],
+      "precision":"",
+      "status":0
+    },
+    {
+      "type": "走势分析",
+      "url": "/static/imgs/zoushifenxi-icon.png",
+      "tablists": [
+        {
+          "title": "号码统计",
+          "status": 0
+        },
+        {
+          "title": "冷热分析",
+          "status": 0
+        },
+        {
+          "title": "遗漏分析",
+          "status": 0
+        },
+        {
+          "title": "横版走势",
+          "status": 0
+        }
+      ],
+      "precision":"",
+      "status": 0
+    },
+    {
+      "type": "预测计划",
+      "url": "/static/imgs/yucejihua-icon.png",
+      "tablists": [
+        {
+          "title": "个位计划",
+          "status": 0
+        },
+        {
+          "title": "个位单双",
+          "status": 0
+        },
+        {
+          "title": "个位大小",
+          "status": 0
+        },
+        {
+          "title": "后二计划",
+          "status": 0
+        },
+        {
+          "title": "后三计划",
+          "status": 0
+        },
+        {
+          "title": "万个龙虎",
+          "status": 0
+        },
+        {
+          "title": "万千龙虎",
+          "status": 0
+        }
+      ],
+      "precision":"准确率高达80%",
+      "status": 0
+    }
+  ]
+}

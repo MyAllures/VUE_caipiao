@@ -1,0 +1,789 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    [
+      {
+        "title": "五星",
+        "status": 0
+      },
+      {
+        "title": "四星",
+        "status": 0
+      },
+      {
+        "title": "三星",
+        "status": 0
+      },
+      {
+        "title": "二星",
+        "status": 0
+      }
+    ],
+    [
+      {
+        "title": "辅助线",
+        "status": 1
+      },
+      {
+        "title": "遗漏",
+        "status": 0
+      },
+      {
+        "title": "遗漏条",
+        "status": 0
+      },
+      {
+        "title": "走势",
+        "status": 0
+      },
+      {
+        "title": "号温",
+        "status": 0
+      }
+    ],
+    [
+      {
+        "content": [
+          [
+            "期号",
+            "开奖号码",
+            "万位",
+            "千位",
+            "百位",
+            "十位",
+            "个位",
+            "号码分布",
+            "龙虎"
+          ],
+          [
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              "龙",
+              "虎",
+              "和"
+            ]
+          ]
+        ]
+      },
+      {
+        "content": [
+          [
+            {
+              "period": "20180303-030"
+            },
+            {
+              "luckNumTotal": "12345"
+            },
+            {
+              "label": "万位",
+              "count": [
+                {
+                  "name": 0,
+                  "lucyNum": 1,
+                  "numTemp": 2
+                },
+                {
+                  "name": 1,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 2,
+                  "lucyNum": 0,
+                  "omitCount": 33,
+                  "numTemp": 1
+                },
+                {
+                  "name": 3,
+                  "lucyNum": 0,
+                  "omitCount": 4,
+                  "numTemp": 3
+                },
+                {
+                  "name": 4,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 5,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 6,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 7,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 8,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 9,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                }
+              ]
+            },
+            {
+              "label": "千位",
+              "count": [
+                {
+                  "name": 0,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 1,
+                  "lucyNum": 1,
+                  "numTemp": 2
+                },
+                {
+                  "name": 2,
+                  "lucyNum": 0,
+                  "omitCount": 33,
+                  "numTemp": 1
+                },
+                {
+                  "name": 3,
+                  "lucyNum": 0,
+                  "omitCount": 4,
+                  "numTemp": 3
+                },
+                {
+                  "name": 4,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 5,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 6,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 7,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 8,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 9,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                }
+              ]
+            },
+            {
+              "label": "百位",
+              "count": [
+                {
+                  "name": 0,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 1,
+                  "lucyNum": 1
+                },
+                {
+                  "name": 2,
+                  "lucyNum": 0,
+                  "omitCount": 33,
+                  "numTemp": 1
+                },
+                {
+                  "name": 3,
+                  "lucyNum": 0,
+                  "omitCount": 4,
+                  "numTemp": 3
+                },
+                {
+                  "name": 4,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 5,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 6,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 7,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 8,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 9,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                }
+              ]
+            },
+            {
+              "label": "十位",
+              "count": [
+                {
+                  "name": 0,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 1,
+                  "lucyNum": 1
+                },
+                {
+                  "name": 2,
+                  "lucyNum": 0,
+                  "omitCount": 33,
+                  "numTemp": 1
+                },
+                {
+                  "name": 3,
+                  "lucyNum": 0,
+                  "omitCount": 4,
+                  "numTemp": 3
+                },
+                {
+                  "name": 4,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 5,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 6,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 7,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 8,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 9,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                }
+              ]
+            },
+            {
+              "label": "个位",
+              "count": [
+                {
+                  "name": 0,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 1,
+                  "lucyNum": 1
+                },
+                {
+                  "name": 2,
+                  "lucyNum": 0,
+                  "omitCount": 33,
+                  "numTemp": 1
+                },
+                {
+                  "name": 3,
+                  "lucyNum": 0,
+                  "omitCount": 4,
+                  "numTemp": 3
+                },
+                {
+                  "name": 4,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 5,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 6,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 7,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 8,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                },
+                {
+                  "name": 9,
+                  "lucyNum": 0,
+                  "omitCount": 50,
+                  "numTemp": 0
+                }
+              ]
+            },
+            {
+              "label": "号码分布",
+              "count": [
+                {
+                  "name": 0,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 1,
+                  "lucyNum": 1,
+                  "repeation": 1
+                },
+                {
+                  "name": 2,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 3,
+                  "lucyNum": 1,
+                  "repeation": 0
+                },
+                {
+                  "name": 4,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 5,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 6,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 7,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 8,
+                  "lucyNum": 0,
+                  "repeation": 0
+                },
+                {
+                  "name": 9,
+                  "lucyNum": 0,
+                  "repeation": 0
+                }
+              ]
+            },
+            {
+              "label": "龙虎和",
+              "count": [
+                {
+                  "name": "龙",
+                  "lucyNum": 1
+                },
+                {
+                  "name": "虎",
+                  "lucyNum": 0
+                },
+                {
+                  "name": "和",
+                  "lucyNum": 0
+                }
+              ]
+            }
+          ]
+        ]
+      },
+      {
+        "showcount": "当前出现次数",
+        "content": [
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8
+          ]
+        ]
+      },
+      {
+        "showcount": "当前最大遗漏",
+        "content": [
+          [
+            14,
+            15,
+            28,
+            52,
+            78,
+            87,
+            38,
+            52,
+            49
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8,
+            2,
+            8,
+            7,
+            8,
+            2,
+            9
+          ],
+          [
+            4,
+            5,
+            8
+          ]
+        ]
+      },
+      {
+        "content": [
+          [
+            "期号",
+            "开奖号码",
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ],
+            [
+              "龙",
+              "虎",
+              "和"
+            ]
+          ],
+          [
+            "万位",
+            "千位",
+            "百位",
+            "十位",
+            "个位",
+            "号码分布",
+            "龙虎"
+          ]
+        ]
+      }
+    ]
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    {
+      "title": "球次",
+      "content": [
+        {
+          "subtitle":"总和",
+          "subcontent": ["单","双",
+            "大"
+            ]
+        },
+        {
+          "subtitle": "第一球",
+          "subcontent": [
+            "单",
+            "双",
+            "大"
+            
+          ]
+        },
+        {
+          "subtitle": "第二球",
+          "subcontent": [
+            "单",
+            "双",
+            "大"
+            
+          ]
+        },
+        {
+          "subtitle": "第三球",
+          "subcontent": [
+            "单",
+            "双"
+            
+          ]
+        }
+      ]
+    },
+    {
+      "title": "出现次数",
+      "content": [
+        [1,2,3],[9,2,3],[7,10,45],["龙","虎"]
+      ]
+    }
+  ]
+}

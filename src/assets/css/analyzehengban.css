@@ -1,0 +1,73 @@
+.analyze-main-content {
+  background: #fff;
+  margin-top: 15px;
+}
+.analyze-main-content .ll-main-content-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 33px 19px 17px;
+  font-size: 16px;
+  color: #000;
+  border-bottom: 2px solid #f7f8fc;
+}
+.analyze-main-content .ll-main-content-title .hengban-icon {
+  width: 17px;
+  height: 17px;
+  margin-right: 7px;
+  position: relative;
+  top: 2px;
+}
+.analyze-main-content .ll-main-content-title .query-area-input-outbox {
+  font-size: 16px;
+  margin-right: 36px;
+}
+.analyze-main-content .ll-main-content-title .query-area-input {
+  width: 72px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 17px;
+  border: 1px solid #C9C9C9;
+  color: #000;
+}
+.analyze-main-content .ll-main-content-title .query-area-input::-webkit-input-placeholder {
+  color: #000;
+}
+.analyze-main-content .ll-main-content-title .query-area-btn {
+  display: inline-block;
+  width: 69px;
+  height: 35px;
+  border-radius: 17px;
+  background: #E52A20;
+  color: #FEFEFE;
+  font-size: 16px;
+  cursor: pointer;
+}
+.analyze-main-content .hengban-table-area-table {
+  margin-top: 28px;
+  padding: 0 20px 50px 17px;
+}
+.analyze-main-content .hengban-table-area-table .table-tabs-outerbox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 4px;
+}
+.analyze-main-content .hengban-table-area-table .table-tabs-outerbox .table-tabs-item {
+  display: inline-block;
+  width: 86px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 17px;
+  color: #6C6C6C;
+  border: 1px solid #6C6C6C;
+  margin-right: 34px;
+  cursor: pointer;
+}
+.analyze-main-content .hengban-table-area-table .table-tabs-outerbox .table-tabs-item:last-child {
+  margin-right: 0;
+}
+.analyze-main-content .hengban-table-area-table .table-tabs-outerbox .active {
+  color: #E52A20;
+  border-color: #E52A20;
+}

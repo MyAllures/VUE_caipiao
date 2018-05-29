@@ -1,0 +1,19 @@
+.download-icon-box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 150px;
+  background: url(../imgs/download-icon-bg.png) no-repeat center center;
+  background-size: 100%;
+}
+.download-icon-box .icon-pic {
+  width: 55px;
+  height: 55px;
+}
+.download-icon-box .icon-text {
+  color: #919191;
+  font-size: 16px;
+}
+.download-icon-box .icon-text .active {
+  color: #fff;
+}

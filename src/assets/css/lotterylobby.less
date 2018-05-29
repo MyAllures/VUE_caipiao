@@ -1,0 +1,161 @@
+.lotterylobby-main-content {
+    background: #fff;
+    margin-top: 15px;
+    .ll-main-content-title {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        padding: 12px 0 20px 17px;
+        border-bottom: 3px solid #ECECEC;
+        .query-area-line {
+            width: 3px;
+            height: 14px;
+            background: #444444;
+            margin-right: 8px;
+        }
+        .query-area-input-outbox {
+            font-size: 16px;
+            margin-right: 36px;
+        }
+        .query-area-input {
+            width: 72px;
+            height: 35px;
+            line-height: 35px;
+            border-radius: 17px;
+            border: 1px solid #C9C9C9;
+            color: #000;
+            &::-webkit-input-placeholder {
+                color: #000;
+            }
+        }
+        .query-area-btn {
+            display: inline-block;
+            width: 69px;
+            height: 35px;
+            border-radius: 17px;
+            background: #E52A20;
+            color: #FEFEFE;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    }
+    .ll-content-numstatistics {
+        padding: 21px 20px 28px 19px;
+        border-bottom: 3px solid #F7F8FC;
+        letter-spacing: 2px;
+        .numstatistics-title-area {
+            .numstatistics-title-text {
+                color: #444;
+                &::before {
+                    content: '';
+                    display: inline-block;
+                    width: 3px;
+                    height: 11px;
+                    background: #444;
+                    margin-right: 8px;
+                }
+            }
+        }
+        .numstatistics-result-no {
+            margin-top: 21px;
+        }
+        .numstatistics-result-ball {
+            margin-top: 23px;
+        }
+    }
+    .ll-content-changlongliankai {
+        padding: 22px 49px 36px 19px;
+        border-bottom: 3px solid #F7F8FC;
+        letter-spacing: 2px;
+        .changlongliankai-title-area {
+            .changlongliankai-title-text {
+                color: #444;
+                &::before {
+                    content: '';
+                    display: inline-block;
+                    width: 3px;
+                    height: 11px;
+                    background: #444;
+                    margin-right: 8px;
+                }
+            }
+        }
+        .changlongliankai-result-show {
+            margin-top: 23px;
+            padding-left: 30px;
+            .changlongliankai-result-content {
+                color: #6C6C6C;
+                margin-left: 20px;
+                &::after {
+                    content: '';
+                    display: inline-block;
+                    width: 2px;
+                    height: 14px;
+                    margin-left: 40px;
+                    background: #6C6C6C;
+                    position: relative;
+                    top: 2px;
+                }
+                &:last-child {
+                    &::after {
+                        content: '';
+                        width: 0;
+                    }
+                }
+            }
+        }
+    }
+    .ll-content-numanalyze {
+        padding: 22px 49px 36px 19px;
+        border-bottom: 3px solid #F7F8FC;
+        letter-spacing: 2px;
+        color: #6C6C6C;
+        .numanalyze-title-text {
+            color: #444;
+            &::before {
+                content: '';
+                display: inline-block;
+                width: 3px;
+                height: 11px;
+                background: #444;
+                margin-right: 8px;
+            }
+        }
+        .ball-number-lists {
+            margin-top: 16px;
+            span {
+                display: inline-block;
+                width: 86px;
+                height: 35px;
+                line-height: 35px;
+                border: 1px solid #6C6C6C;
+                border-radius: 17px;
+                text-align: center;
+                margin-right: 24px;
+                cursor: pointer;
+                &:last-child {
+                    margin-right: 0;
+                }
+            }
+            .active {
+                border-color: #e52a20;
+                color: #e52a20;
+            }
+            .special-span {
+                color: #fff;
+                background: #F9982E;
+                border: 0;
+            }
+        }
+        .check-bigsm-oddev {
+            margin-top: 32px;
+            .active {
+                border-color: #e52a20;
+                color: #e52a20;
+            }
+        }
+    }
+    .ll-content-bottomTale {
+        padding: 20px 20px 50px 19px;
+    }
+}

@@ -1,0 +1,20 @@
+.live-area {
+  background: #fff;
+  margin-top: 15px;
+}
+.live-area .live-area-title {
+  border-bottom: 2px solid #f7f8fc;
+  padding: 23px 0 26px 17px;
+  color: #000;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+.live-area .live-area-title .zhibo-icon {
+  width: 17px;
+  height: 17px;
+  position: relative;
+  top: 3px;
+}
+.live-area .live-area-video {
+  padding: 24px 38px;
+}

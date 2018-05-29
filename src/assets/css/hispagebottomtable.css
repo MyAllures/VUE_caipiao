@@ -1,0 +1,111 @@
+.his-bottom-table-table {
+  border: 1px solid #ECECEC;
+}
+.his-bottom-table-table tr {
+  line-height: 44px;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr {
+  background: #FAFAFA;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr th {
+  border-right: 1px solid #ECECEC;
+  border-bottom: 1px solid #ECECEC;
+  color: #555555;
+  font-size: 16px;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr th:last-child {
+  border-right: 0;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr .thead-tr-choose-th {
+  padding: 0 36px 0 46px;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr .thead-tr-choose-th .choose-th-content {
+  display: inline-block;
+  width: 87px;
+  height: 26px;
+  line-height: 26px;
+  border-radius: 13px;
+  color: #fff;
+  font-size: 14px;
+  margin-right: 17px;
+  background: #B9B9B9;
+  cursor: pointer;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr .thead-tr-choose-th .choose-th-content:last-child {
+  margin-right: 0;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr .thead-tr-choose-th .active {
+  background: #50515F;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr .table-thead-tr-th-five {
+  padding: 0 42px 0 57px;
+}
+.his-bottom-table-table .his-bottom-table-thead .bottom-table-thead-tr .thead-tr-zonghe-th {
+  padding: 0 110px;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr {
+  color: #383838;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr td {
+  border-bottom: 1px solid #ECECEC;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr:last-child td {
+  border-bottom: 0;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr:nth-of-type(2n) {
+  background: #FAFAFA;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr td {
+  border-right: 1px solid #ECECEC;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr td:last-child {
+  border-right: 0;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-one {
+  padding: 0 27px 0 30px;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-two {
+  padding: 0 36px;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-three {
+  text-align: center;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-three .choose-tbody-td-content {
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 50%;
+  border: 1px solid #35A9E4;
+  color: #50515F;
+  font-size: 16px;
+  margin-right: 19px;
+  position: relative;
+  top: 2px;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-three .choose-tbody-td-content:last-child {
+  margin-right: 0;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-three .text {
+  background: #7F8AB0;
+  color: #fff;
+  border: 0;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-three .specialBg {
+  background: #F9982E;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-three .notChooseNum {
+  color: #cacaca;
+  border-color: #cacaca;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-four {
+  display: flex;
+  justify-content: space-between;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-four .zonghe-tbody-td-content {
+  width: 100%;
+  border-right: 1px solid #ECECEC;
+}
+.his-bottom-table-table .his-bottom-table-tbody .bottom-table-tbody-tr .table-tbody-tr-col-four .zonghe-tbody-td-content:last-child {
+  border-right: 0;
+}

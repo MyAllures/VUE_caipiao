@@ -1,0 +1,101 @@
+.out-el-row {
+  margin-top: 13px;
+}
+.out-el-row .typemsg-left {
+  background: #fff;
+  padding-left: 22px;
+  padding-top: 20px;
+  padding-bottom: 24px;
+}
+.out-el-row .typemsg-left .shishicai-icon {
+  width: 99px;
+  height: 99px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum {
+  margin-left: 18px;
+  margin-top: 15px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-type-name {
+  color: #3b3b3b;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-type-name span {
+  margin-right: 6px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-type-name .type-name {
+  color: #141414;
+  font-size: 16px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-luck-num {
+  margin-top: 18px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-luck-num ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-luck-num ul li {
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+  background: #E52A20;
+  font-size: 20px;
+  color: #fff;
+  margin-right: 21px;
+  line-height: 37px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-help {
+  margin-top: 14px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-help .email-icon {
+  width: 18px;
+  height: 14px;
+  margin-left: 6px;
+  position: relative;
+  top: 2px;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-help .help-text {
+  margin-left: 16px;
+  color: #3D3D3D;
+}
+.out-el-row .typemsg-left .typemsg-name-lucynum .typemsg-help .help-text .how-play {
+  cursor: pointer;
+}
+.out-el-row .typemsg-left .cutting-line {
+  width: 2px;
+  height: 70px;
+  background: #E1E1E1;
+  margin-top: 24px;
+  margin-left: 30px;
+}
+.out-el-row .typemsg-left .count-down {
+  margin-top: 20px;
+  margin-left: 110px;
+}
+.out-el-row .typemsg-left .count-down .count-down-text {
+  margin-bottom: 20px;
+  color: #8D8D8D;
+}
+.out-el-row .typemsg-left .red-color {
+  color: #E52A20;
+}
+.out-el-row .typemsg-right {
+  padding-left: 10px;
+  margin-top: 2px;
+}
+.out-el-row .typemsg-right .zhibo-bg-pic {
+  position: relative;
+  width: 224px;
+  height: 159px;
+  background: url(../imgs/zhibo-small-pic.png) no-repeat center center;
+  background-size: 100%;
+}
+.out-el-row .typemsg-right .zhibo-play-pic {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  width: 43px;
+  height: 43px;
+}

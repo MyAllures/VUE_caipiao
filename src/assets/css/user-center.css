@@ -1,0 +1,117 @@
+.el-row {
+  margin-top: 15px;
+  background: #fff;
+}
+.el-row .userC-left {
+  border-left: 2px solid #E6E6E6;
+  border-right: 2px solid #E6E6E6;
+  padding-bottom: 206px;
+}
+.el-row .userC-left .user-avatar {
+  padding-top: 23px;
+  padding-bottom: 26px;
+  border-bottom: 2px solid #E6E6E6;
+}
+.el-row .userC-left .user-avatar .avatar-pic {
+  width: 83px;
+  height: 83px;
+}
+.el-row .userC-left .change-msg-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #E6E6E6;
+  color: #4A4A4A;
+  font-size: 16px;
+  padding: 20px 64px 20px 81px;
+  cursor: pointer;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+.el-row .userC-left .change-msg-btn .change-msg-btn-arr {
+  width: 7px;
+  height: 13px;
+  margin-left: 12px;
+  position: relative;
+  top: 2px;
+}
+.el-row .userC-left .active {
+  color: #E52A20;
+  background: #FAFAFA;
+}
+.el-row .userC-right {
+  padding: 28px 26px 0 34px;
+}
+.el-row .userC-right .userC-right-title .title-line {
+  display: inline-block;
+  width: 4px;
+  height: 13px;
+  background: #E52A20;
+  margin-right: 9px;
+}
+.el-row .userC-right .userC-right-title .title-text {
+  color: #E52A20;
+  font-size: 18px;
+  font-weight: 600;
+}
+.el-row .userC-right .userC-right-subTitle {
+  color: #4A4A4A;
+  font-size: 16px;
+  margin-top: 28px;
+  margin-left: 9px;
+  padding-bottom: 30px;
+  border-bottom: 1px dashed rgba(166, 166, 166, 0.6);
+}
+.el-row .userC-right .userC-right-inputs {
+  padding-top: 22px;
+}
+.el-row .userC-right .userC-right-inputs .input-lists {
+  padding-left: 276px;
+  margin-bottom: 39px;
+}
+.el-row .userC-right .userC-right-inputs .input-lists:last-child {
+  margin-bottom: 0;
+}
+.el-row .userC-right .userC-right-inputs .input-lists .input-icon {
+  width: 21px;
+  height: 21px;
+  margin-right: 6px;
+}
+.el-row .userC-right .userC-right-inputs .input-lists .input-title {
+  color: #4A4A4A;
+  font-size: 16px;
+  margin-right: 10px;
+}
+.el-row .userC-right .userC-right-inputs .input-lists .input-input {
+  width: 210px;
+  height: 35px;
+  background: #EEEEEE;
+  padding-left: 10px;
+  border-radius: 5px;
+}
+.el-row .userC-right .userC-right-inputs .input-lists .warning {
+  color: #E52A20;
+  margin-left: 10px;
+}
+.el-row .userC-right .userC-right-inputs .new-pwd-again {
+  margin-left: -60px;
+}
+.el-row .userC-right .userC-right-submit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 32px;
+}
+.el-row .userC-right .userC-right-submit .submit-btn {
+  width: 211px;
+  height: 36px;
+  background: #E52A20;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 5px;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+.el-row .userC-right .change-pwd-borderbottom {
+  padding-bottom: 0;
+}

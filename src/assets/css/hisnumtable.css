@@ -1,0 +1,23 @@
+.el-table td {
+  padding: 0;
+}
+.el-table__row:first-child {
+  background: #fafafa;
+}
+.el-table th {
+  background: #fafafa;
+}
+.number-show-outerBox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.number-show {
+  width: 10%;
+  height: 40px;
+  line-height: 40px;
+  border-right: 1px solid #ececec;
+}
+.number-show:last-child {
+  border-right: 0;
+}

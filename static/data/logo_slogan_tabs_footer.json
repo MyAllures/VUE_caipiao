@@ -1,0 +1,88 @@
+{
+  "status": 1,
+  "message": "",
+  "data": {
+    "logo": "/static/imgs/logo.png",
+    "slogan": "/static/imgs/slogan.png",
+    "tabs": [
+      {
+        "text":"首页",
+        "url":"/",
+        "status":1
+      },
+      {
+        "text": "彩票大厅",
+        "url": "/lotterylobby/1",
+        "status": 0
+      },
+      {
+        "text": "预测推荐",
+        "url": "/forecastrecommend/1",
+        "status": 0
+      },
+      {
+        "text": "走势图表",
+        "url": "/charts/1",
+        "status": 0
+      },
+      {
+        "text": "开奖直播",
+        "url": "/live/1",
+        "status": 0
+      },
+      {
+        "text": "软件下载",
+        "url": "/downloadCenter",
+        "status": 0
+      },
+      {
+        "text": "彩票咨询",
+        "url": "/news",
+        "status": 0
+      },
+      {
+        "text": "帮助中心",
+        "url": "/helpCenter",
+        "status": 0
+      }
+    ],
+    "footer":[
+      {
+        "title":"关于我们",
+        "lists":[
+          "公司简介",
+          "免责声明",
+          "法律声明"
+        ]
+      },
+      {
+        "title": "软件下载",
+        "lists": [
+          "iPhone下载",
+          "Android下载",
+          "客户端下载"
+        ]
+      },
+      {
+        "title": "友情链接",
+        "lists": [
+          "中国福利彩票网",
+          "球探体育",
+          "皇家彩世界"
+        ]
+      },
+      {
+        "title": "网站地图",
+        "lists": [
+          "彩票大厅",
+          "预测推荐",
+          "开奖直播",
+          "重庆时时彩",
+          "加拿大28",
+          "帮助中心"
+        ]
+      }
+    ],
+    "copyright":"Copyright 2005-2018彩票彩票彩票有限公司版权所有 渝ICP备10202274号-7 渝B2-20080005"
+  }
+}

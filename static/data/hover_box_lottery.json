@@ -1,0 +1,105 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    {
+      "id":1,
+      "title":"热门彩",
+      "url":"/static/imgs/hot-active-icon.png",
+      "details":[
+        {
+          "id":1,
+          "name":"重庆时时彩",
+          "src":"/static/imgs/hoverbox_shishicai_icon.png"
+        },
+        {
+          "id": 2,
+          "name": "11选5",
+          "src": "/static/imgs/hoverbox_eleven_five_icon.png"
+        },
+        {
+          "id": 3,
+          "name": "幸运28",
+          "src": "/static/imgs/hoverbox_lucky_twenty_eight_icon.png"
+        },
+        {
+          "id": 4,
+          "name": "加拿大28",
+          "src": "/static/imgs/hoverbox_jianada_icon.png"
+        },
+        {
+          "id": 5,
+          "name": "北京5分彩",
+          "src": "/static/imgs/hoverbox_beijing_five_icon.png"
+        },
+        {
+          "id": 6,
+          "name": "北京PK10",
+          "src": "/static/imgs/hoverbox_beijing_ten_icon.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "高频彩",
+      "url": "/static/imgs/hoverbox_gaopincai_icon.png",
+      "details": [
+        {
+          "id": 1,
+          "name": "重庆时时彩"
+        },
+        {
+          "id": 4,
+          "name": "加拿大28"
+        },
+        {
+          "id": 2,
+          "name": "11选5"
+        },
+        {
+          "id": 5,
+          "name": "北京5分彩"
+        },
+        {
+          "id": 3,
+          "name": "幸运28"
+        },
+        {
+          "id": 6,
+          "name": "北京PK10"
+        },
+        {
+          "id": 7,
+          "name": "新疆时时彩"
+        },
+        {
+          "id": 8,
+          "name": "北京五分彩"
+        },
+        {
+          "id": 9,
+          "name": "天津时时彩"
+        },
+        {
+          "id": 10,
+          "name": "腾讯分分彩"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "低频彩",
+      "url": "/static/imgs/hoverbox_dipincai_icon.png",
+      "details": [
+        {
+          "id": 11,
+          "name": "福彩3D"
+        },
+        {
+          "id": 12,
+          "name": "江苏快三"
+        }
+      ]
+    }
+  ]
+}

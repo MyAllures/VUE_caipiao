@@ -1,0 +1,27 @@
+.el-checkbox__inner {
+  border: 0;
+  border-radius: 50%;
+  background: #E8E8E8;
+  width: 18px;
+  height: 18px;
+}
+.el-checkbox__inner:hover {
+  border-color: #fff;
+}
+.el-checkbox__inner:after {
+  height: 10px;
+  left: 7px;
+  top: 2px;
+}
+.el-checkbox__input.is-checked .el-checkbox__inner {
+  background-color: #E52A20;
+}
+.el-checkbox__input.is-checked + .el-checkbox__label {
+  color: #929292;
+}
+.el-checkbox {
+  color: #929292;
+}
+.redColor {
+  color: #E52A20;
+}

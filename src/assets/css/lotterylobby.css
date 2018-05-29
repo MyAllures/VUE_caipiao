@@ -1,0 +1,155 @@
+.lotterylobby-main-content {
+  background: #fff;
+  margin-top: 15px;
+}
+.lotterylobby-main-content .ll-main-content-title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 12px 0 20px 17px;
+  border-bottom: 3px solid #ECECEC;
+}
+.lotterylobby-main-content .ll-main-content-title .query-area-line {
+  width: 3px;
+  height: 14px;
+  background: #444444;
+  margin-right: 8px;
+}
+.lotterylobby-main-content .ll-main-content-title .query-area-input-outbox {
+  font-size: 16px;
+  margin-right: 36px;
+}
+.lotterylobby-main-content .ll-main-content-title .query-area-input {
+  width: 72px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 17px;
+  border: 1px solid #C9C9C9;
+  color: #000;
+}
+.lotterylobby-main-content .ll-main-content-title .query-area-input::-webkit-input-placeholder {
+  color: #000;
+}
+.lotterylobby-main-content .ll-main-content-title .query-area-btn {
+  display: inline-block;
+  width: 69px;
+  height: 35px;
+  border-radius: 17px;
+  background: #E52A20;
+  color: #FEFEFE;
+  font-size: 16px;
+  cursor: pointer;
+}
+.lotterylobby-main-content .ll-content-numstatistics {
+  padding: 21px 20px 28px 19px;
+  border-bottom: 3px solid #F7F8FC;
+  letter-spacing: 2px;
+}
+.lotterylobby-main-content .ll-content-numstatistics .numstatistics-title-area .numstatistics-title-text {
+  color: #444;
+}
+.lotterylobby-main-content .ll-content-numstatistics .numstatistics-title-area .numstatistics-title-text::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 11px;
+  background: #444;
+  margin-right: 8px;
+}
+.lotterylobby-main-content .ll-content-numstatistics .numstatistics-result-no {
+  margin-top: 21px;
+}
+.lotterylobby-main-content .ll-content-numstatistics .numstatistics-result-ball {
+  margin-top: 23px;
+}
+.lotterylobby-main-content .ll-content-changlongliankai {
+  padding: 22px 49px 36px 19px;
+  border-bottom: 3px solid #F7F8FC;
+  letter-spacing: 2px;
+}
+.lotterylobby-main-content .ll-content-changlongliankai .changlongliankai-title-area .changlongliankai-title-text {
+  color: #444;
+}
+.lotterylobby-main-content .ll-content-changlongliankai .changlongliankai-title-area .changlongliankai-title-text::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 11px;
+  background: #444;
+  margin-right: 8px;
+}
+.lotterylobby-main-content .ll-content-changlongliankai .changlongliankai-result-show {
+  margin-top: 23px;
+  padding-left: 30px;
+}
+.lotterylobby-main-content .ll-content-changlongliankai .changlongliankai-result-show .changlongliankai-result-content {
+  color: #6C6C6C;
+  margin-left: 20px;
+}
+.lotterylobby-main-content .ll-content-changlongliankai .changlongliankai-result-show .changlongliankai-result-content::after {
+  content: '';
+  display: inline-block;
+  width: 2px;
+  height: 14px;
+  margin-left: 40px;
+  background: #6C6C6C;
+  position: relative;
+  top: 2px;
+}
+.lotterylobby-main-content .ll-content-changlongliankai .changlongliankai-result-show .changlongliankai-result-content:last-child::after {
+  content: '';
+  width: 0;
+}
+.lotterylobby-main-content .ll-content-numanalyze {
+  padding: 22px 49px 36px 19px;
+  border-bottom: 3px solid #F7F8FC;
+  letter-spacing: 2px;
+  color: #6C6C6C;
+}
+.lotterylobby-main-content .ll-content-numanalyze .numanalyze-title-text {
+  color: #444;
+}
+.lotterylobby-main-content .ll-content-numanalyze .numanalyze-title-text::before {
+  content: '';
+  display: inline-block;
+  width: 3px;
+  height: 11px;
+  background: #444;
+  margin-right: 8px;
+}
+.lotterylobby-main-content .ll-content-numanalyze .ball-number-lists {
+  margin-top: 16px;
+}
+.lotterylobby-main-content .ll-content-numanalyze .ball-number-lists span {
+  display: inline-block;
+  width: 86px;
+  height: 35px;
+  line-height: 35px;
+  border: 1px solid #6C6C6C;
+  border-radius: 17px;
+  text-align: center;
+  margin-right: 24px;
+  cursor: pointer;
+}
+.lotterylobby-main-content .ll-content-numanalyze .ball-number-lists span:last-child {
+  margin-right: 0;
+}
+.lotterylobby-main-content .ll-content-numanalyze .ball-number-lists .active {
+  border-color: #e52a20;
+  color: #e52a20;
+}
+.lotterylobby-main-content .ll-content-numanalyze .ball-number-lists .special-span {
+  color: #fff;
+  background: #F9982E;
+  border: 0;
+}
+.lotterylobby-main-content .ll-content-numanalyze .check-bigsm-oddev {
+  margin-top: 32px;
+}
+.lotterylobby-main-content .ll-content-numanalyze .check-bigsm-oddev .active {
+  border-color: #e52a20;
+  color: #e52a20;
+}
+.lotterylobby-main-content .ll-content-bottomTale {
+  padding: 20px 20px 50px 19px;
+}

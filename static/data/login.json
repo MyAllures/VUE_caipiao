@@ -1,0 +1,10 @@
+{
+  "status": 1,
+  "message": "登录成功",
+  "time": "1525660351",
+  "data": {
+    "id": 100032,
+    "nickname": "100032",
+    "avatar": "/static/imgs/user-avatar.png"
+  }
+}

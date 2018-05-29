@@ -1,0 +1,218 @@
+.bgBox {
+  width: 100%;
+  height: 1315px;
+  margin-bottom: -30px;
+  padding-top: 280px;
+  background-position: center top;
+}
+.bgBox .header-title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.bgBox .header-title .header-left-title {
+  width: 46.67%;
+  height: 94px;
+  line-height: 94px;
+  background: url(../imgs/forecom-pink-bg.png) no-repeat center center;
+  background-size: cover;
+  color: #E25D73;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 24px;
+  padding-left: 130px;
+  padding-right: 146px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 20px;
+}
+.bgBox .header-title .header-right-title {
+  width: 53.33%;
+  height: 94px;
+  line-height: 94px;
+  background: url(../imgs/forecom-yellow-bg.png) no-repeat center center;
+  background-size: cover;
+  color: #CD7E2D;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-size: 24px;
+  padding-left: 131px;
+  padding-right: 146px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 10px;
+}
+.bgBox .header-content {
+  background: #F8F0C9;
+  padding-bottom: 8px;
+}
+.bgBox .header-content .header-content-innerBox {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #FFFCED;
+}
+.bgBox .header-content .header-left-content {
+  width: 46.67%;
+  padding: 37px 119px 37px 106px;
+}
+.bgBox .header-content .header-left-content .left-content-text {
+  font-size: 18px;
+  color: #4C4C4C;
+  letter-spacing: 3px;
+  font-weight: bold;
+  margin-bottom: 32px;
+}
+.bgBox .header-content .header-left-content .left-content-text span {
+  color: #E52A20;
+}
+.bgBox .header-content .header-left-content span.countdown-num {
+  width: 74px;
+  height: 78px;
+  font-size: 41px;
+  background-image: url(../imgs/countdown-big-bg.png);
+  color: #fff;
+}
+.bgBox .header-content .header-left-content span.countdown-text {
+  font-size: 32px;
+  color: #363636;
+}
+.bgBox .header-content .header-right-content {
+  width: 53.33%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 43px 86px 43px 0;
+}
+.bgBox .header-content .header-right-content .right-content-line {
+  width: 2px;
+  height: 125px;
+  background: #EAE5CE;
+  margin-right: 66px;
+}
+.bgBox .header-content .header-right-content .content-winnum-ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.bgBox .header-content .header-right-content .content-winnum-ul .content-winnum-li {
+  width: 66px;
+  height: 66px;
+  line-height: 66px;
+  background: #E52A20;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 36px;
+  margin-right: 39px;
+}
+.bgBox .header-content .header-right-content .content-winnum-ul .content-winnum-li:last-child {
+  margin-right: 0;
+}
+.bgBox .forecom-bottom-details {
+  margin-top: 8px;
+  background: #fff;
+}
+.bgBox .forecom-bottom-details .bottom-query-area {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background: #bc9dc8;
+  border-top: 3px solid #9168a2;
+  padding: 14px 0 12px 43px;
+}
+.bgBox .forecom-bottom-details .bottom-query-area .query-area-line {
+  width: 3px;
+  height: 14px;
+  background: #643775;
+  margin-right: 50px;
+}
+.bgBox .forecom-bottom-details .bottom-query-area .query-area-input-outbox {
+  color: #643775;
+  font-size: 16px;
+  margin-right: 36px;
+}
+.bgBox .forecom-bottom-details .bottom-query-area .query-area-input {
+  width: 72px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 17px;
+  border: 1px solid #885b99;
+  color: #643775;
+  background: #bc9dc8;
+}
+.bgBox .forecom-bottom-details .bottom-query-area .query-area-input::-webkit-input-placeholder {
+  color: #643775;
+}
+.bgBox .forecom-bottom-details .bottom-query-area .query-area-btn {
+  display: inline-block;
+  width: 69px;
+  height: 35px;
+  border-radius: 17px;
+  background: #643775;
+  color: #FEFEFE;
+  font-size: 16px;
+  cursor: pointer;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 36px;
+  padding-top: 26px;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title .forep-title-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 2px;
+  margin-right: 6px;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title .forep-title-title {
+  color: #000;
+  font-size: 16px;
+  margin-right: 18px;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title .forep-title-ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title .forep-title-ul .forep-title-li {
+  height: 35px;
+  line-height: 35px;
+  padding: 0 20px;
+  border: 1px solid #6c6c6c;
+  border-radius: 17px;
+  margin-right: 20px;
+  color: #6c6c6c;
+  cursor: pointer;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title .forep-title-ul .forep-title-li:last-child {
+  margin-right: 0;
+}
+.bgBox .forecom-bottom-details .forecast-plan-title .forep-title-ul .active {
+  border-color: #e52a20;
+  color: #e52a20;
+}
+.bgBox .forecom-bottom-details .forecast-plan-line {
+  padding: 27px 34px 18px 24px;
+}
+.bgBox .forecom-bottom-details .forecast-plan-line .line-innerBox {
+  width: 100%;
+  height: 3px;
+  background: #E8E8E8;
+}
+.bgBox .forecom-bottom-details .plan-details-table {
+  padding: 0 58px 20px 37px;
+}
+.bgBox .forecom-bottom-details .plan-details-table .plan-details-intro {
+  height: 46px;
+  line-height: 46px;
+  padding-left: 27px;
+  background: #FFFDE6;
+  border: 1px solid #FEE9CA;
+  color: #404040;
+  font-size: 16px;
+  margin-bottom: 19px;
+}
+.bgBox .forecom-bottom-details .plan-details-table .plan-details-intro span {
+  color: #E52A20;
+}

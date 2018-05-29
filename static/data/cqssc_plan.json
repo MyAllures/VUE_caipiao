@@ -1,0 +1,69 @@
+{
+  "status": 1,
+  "message": "",
+  "url":"/static/imgs/geweijihua-icon.png",
+  "phasenum": "046-048",
+  "numrecommend": "1，3，5，7，9",
+  "nowphasenum":1,
+  "waitphasenum":"048",
+  "data": [
+    {
+      "phasenum":"046-048",
+      "numrecommend":"1，3，5，7，9",
+      "verifyresult":"中",
+      "winningphasenum":47,
+      "winningnum":[
+        {
+          "winno":1,
+          "status":0
+        },
+        {
+          "winno": 2,
+          "status": 0
+        },
+        {
+          "winno": 3,
+          "status": 0
+        },
+        {
+          "winno": 4,
+          "status": 0
+        },
+        {
+          "winno": 5,
+          "status": 1
+        }
+      ],
+      "sortnum":"第二期"
+    },
+    {
+      "phasenum": "049-051",
+      "numrecommend": "2，4，6，8，0",
+      "verifyresult": "挂",
+      "winningphasenum": 51,
+      "winningnum": [
+        {
+          "winno": 6,
+          "status": 1
+        },
+        {
+          "winno": 7,
+          "status": 0
+        },
+        {
+          "winno": 8,
+          "status": 0
+        },
+        {
+          "winno": 9,
+          "status": 0
+        },
+        {
+          "winno": 0,
+          "status": 0
+        }
+      ],
+      "sortnum": "第一期"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+.plan-details-outerbox {
+  margin-top: 15px;
+  background: #fff;
+}
+.plan-details-outerbox .plan-details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 27px 40px 23px 17px;
+  border-bottom: 2px solid #f7f8fc;
+}
+.plan-details-outerbox .plan-details-header .header-icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  top: 2px;
+}
+.plan-details-outerbox .plan-details-header .header-title {
+  font-size: 16px;
+  color: #000;
+  margin-left: 6px;
+}
+.plan-details-outerbox .plan-details-header .header-right-sunheading {
+  font-size: 16px;
+  color: #000;
+}
+.plan-details-outerbox .plan-details-header .header-right-sunheading span {
+  color: #E52A20;
+}
+.plan-details-outerbox .plan-details-table {
+  padding: 14px 20px 50px;
+}
+.plan-details-outerbox .plan-details-table .plan-details-intro {
+  height: 46px;
+  line-height: 46px;
+  padding-left: 27px;
+  background: #FFFDE6;
+  border: 1px solid #FEE9CA;
+  color: #404040;
+  font-size: 16px;
+  margin-bottom: 19px;
+}
+.plan-details-outerbox .plan-details-table .plan-details-intro span {
+  color: #E52A20;
+}

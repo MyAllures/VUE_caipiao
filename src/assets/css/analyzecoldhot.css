@@ -1,0 +1,119 @@
+.analyze-main-content {
+  background: #fff;
+  margin-top: 15px;
+  padding-left: 17px;
+}
+.analyze-main-content .ll-main-content-title {
+  padding: 24px 0 27px 0;
+  font-size: 16px;
+  color: #000;
+  border-bottom: 2px solid #f7f8fc;
+}
+.analyze-main-content .ll-main-content-title .cold-hot-icon {
+  width: 17px;
+  height: 17px;
+  margin-right: 7px;
+  position: relative;
+  top: 2px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-title {
+  padding: 25px 0 27px 0;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-title .checkbox-label {
+  color: #000;
+  font-size: 16px;
+  letter-spacing: 2px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-title .checkbox-label:before {
+  content: '';
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  border-radius: 50%;
+  background: #D1D1D1;
+  margin-right: 11px;
+  position: relative;
+  top: 2px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-title input[type="checkbox"] {
+  display: none;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-title input[type="checkbox"]:checked + .checkbox-label:before {
+  background: url(../imgs/analyze-cold-hot-checked-bg.png) no-repeat center center;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-intro {
+  border: 1px solid #FEE9CA;
+  background: #FFFDE6;
+  font-size: 16px;
+  color: #404040;
+  padding: 16px 0 13px 27px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table {
+  padding: 20px 30px 100px 15px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table {
+  border: 1px solid #ECECEC;
+  border-collapse: collapse;
+  color: #313131;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table thead tr {
+  border-bottom: 1px solid #ECECEC;
+  background: #fafafa;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table thead tr td {
+  border-right: 1px solid #ECECEC;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table thead tr td:last-child {
+  border-right: 0;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table thead tr .cold-hot-table-thead-td-other {
+  padding: 24px 165px 22px 153px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr {
+  height: 47px;
+  line-height: 47px;
+  border-bottom: 1px solid #ECECEC;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr:last-child {
+  border-bottom: 0;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr td {
+  border-right: 1px solid #ECECEC;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr td:last-child {
+  border-right: 0;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr .cold-hot-table-tbody-td-one {
+  width: 140px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr .cold-hot-table-tbody-td-other {
+  padding-left: 14px;
+  text-align: left;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr .cold-hot-table-tbody-td-other .cold-hot-num-outerbox {
+  position: relative;
+  display: inline-block;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
+  border: 1px solid #35A9E4;
+  border-radius: 50%;
+  text-align: center;
+  margin-right: 17px;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr .cold-hot-table-tbody-td-other .cold-hot-num-outerbox .cold-hot-num {
+  font-size: 18px;
+  color: #50515F;
+}
+.analyze-main-content .analyze-cold-hot-table-area .cold-hot-table-area-table table tbody tr .cold-hot-table-tbody-td-other .cold-hot-num-outerbox .cold-hot-badge {
+  position: absolute;
+  top: -3px;
+  right: -3px;
+  width: 15px;
+  height: 15px;
+  line-height: 15px;
+  border-radius: 50%;
+  background: #E52A20;
+  font-size: 12px;
+  color: #fff;
+}

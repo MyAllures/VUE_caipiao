@@ -1,0 +1,18 @@
+.el-carousel__indicators {
+  left: 40%;
+}
+.el-carousel__indicators .el-carousel__button {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  opacity: 0.6;
+}
+.el-carousel__indicator.is-active button {
+  opacity: 1;
+  width: 14px;
+  border-radius: 3px;
+}
+.el-carousel__item img {
+  height: 432px;
+  cursor: pointer;
+}

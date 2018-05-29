@@ -1,0 +1,64 @@
+{
+  "status": 1,
+  "message": "",
+  "data": [
+    {
+      "title": "查看球号分布",
+      "content": [
+        {
+          "content":"号码0",
+          "status":0
+        },
+        {
+          "content": "号码1",
+          "status": 0
+        },
+        {
+          "content": "号码2",
+          "status": 0
+        },
+        {
+          "content": "号码3",
+          "status": 0
+        },
+        {
+          "content": "号码4",
+          "status": 0
+        },
+        {
+          "content": "号码5",
+          "status": 0
+        },
+        {
+          "content": "号码6",
+          "status": 0
+        }
+      ]
+    },
+    {
+      "title": "大小单双分布",
+      "content": [
+        {
+          "content": "单",
+          "status": 0
+        },
+        {
+          "content": "双",
+          "status": 0
+        },
+        {
+          "content": "大",
+          "status": 0
+        },
+        {
+          "content": "小",
+          "status": 0
+        },
+        {
+          "content": "对子号",
+          "status": 0
+        }
+      ]
+    }
+  ]
+}
