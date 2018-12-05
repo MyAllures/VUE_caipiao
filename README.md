@@ -1,6 +1,14 @@
-# caipiao_pc
+# 基于vue的彩票网站
 
-> caipiao_pc_vue
+> 基于Vue2.0彩票网站，vue-cli生成spa项目；使用websocket推送开奖信息；使用canvas绘制走势图  
+
+## 线上地址
+
+http://www.caimengjh.com/#/
+
+## 效果展示
+![效果展示](./doc/zanshi.jpg "效果展示")
+![效果展示](./doc/zanshi.png "效果展示")
 
 ## Build Setup
 
